@@ -958,7 +958,7 @@
 
             <p>♡ Get to know me</p>
 
-            <h2>About Me</h2>
+            <h2>ABOUT ME</h2>
 
         </div>
 
