@@ -958,7 +958,7 @@
 
             <p>♡ Get to know me</p>
 
-            <h2>Tentang Saya</h2>
+            <h2>About Me</h2>
 
         </div>
 
