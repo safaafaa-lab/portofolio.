@@ -956,9 +956,9 @@
 
         <div class="section-title">
 
-            <p>♡ Get to know me</p>
+            <p>ABOUT ME</p>
 
-            <h2>ABOUT ME</h2>
+            <h2>♡ Get to know</h2>
 
         </div>
 
